@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vst"] = [{"text":"impl StructuralEq for Supported","synthetic":false,"types":[]},{"text":"impl StructuralEq for ChannelFlags","synthetic":false,"types":[]},{"text":"impl StructuralEq for PluginFlags","synthetic":false,"types":[]},{"text":"impl StructuralEq for ModifierKey","synthetic":false,"types":[]},{"text":"impl StructuralEq for MidiEventFlags","synthetic":false,"types":[]},{"text":"impl StructuralEq for TimeInfoFlags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

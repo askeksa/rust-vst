@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vst"] = [{"text":"impl StructuralPartialEq for Supported","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for ChannelFlags","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for PluginFlags","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for ModifierKey","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for MidiEventFlags","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for TimeInfoFlags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

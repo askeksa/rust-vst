@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vst"] = [{"text":"impl BitXor&lt;ChannelFlags&gt; for ChannelFlags","synthetic":false,"types":[]},{"text":"impl BitXor&lt;PluginFlags&gt; for PluginFlags","synthetic":false,"types":[]},{"text":"impl BitXor&lt;ModifierKey&gt; for ModifierKey","synthetic":false,"types":[]},{"text":"impl BitXor&lt;MidiEventFlags&gt; for MidiEventFlags","synthetic":false,"types":[]},{"text":"impl BitXor&lt;TimeInfoFlags&gt; for TimeInfoFlags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
